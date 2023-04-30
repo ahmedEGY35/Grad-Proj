@@ -1,0 +1,424 @@
+[{
+  "_id": {
+    "$oid": "6438823a73bb7caf103287f5"
+  },
+  "title": "Beats Headphones",
+  "description": "Stereo output allows for greater level of immersion in your music escapades",
+  "images": "https://www.freepnglogos.com/uploads/headphones-png/red-dre-beats-headphones-18.png",
+  "categories": [
+    "Electronics",
+    "Headset"
+  ],
+  "size": [],
+  "color": [
+    "Red"
+  ],
+  "price": 5700,
+  "inStock": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1681424954570"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681424954570"
+    }
+  },
+  "__v": 0,
+  "colorAr": [
+    "الأحمر"
+  ]
+},{
+  "_id": {
+    "$oid": "6438830373bb7caf103287f8"
+  },
+  "title": "T-Shirt",
+  "description": "Round Neck Dri-Fit T-Shirt",
+  "images": "https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+  "categories": [
+    "Clothes",
+    "Men",
+    "الملابس",
+    "رجال"
+  ],
+  "size": [
+    "M",
+    "L",
+    "XL"
+  ],
+  "color": [
+    "Red",
+    "Black",
+    "Pink"
+  ],
+  "price": 350,
+  "inStock": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1681425155856"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681425155856"
+    }
+  },
+  "__v": 0,
+  "sizeAr": [
+    "كبير جدا",
+    "كبير",
+    "متوسط"
+  ],
+  "colorAr": [
+    "الأحمر",
+    "الأسود",
+    "الوردي"
+  ]
+},{
+  "_id": {
+    "$oid": "643883f473bb7caf103287fa"
+  },
+  "title": "Apple Watch Series 5",
+  "description": "The fifth version of apple watches (45mm) Stainless Steel Band Strap waterproof",
+  "images": "https://www.freepnglogos.com/uploads/watch-png/watch-apple-september-announcements-and-filemaker-cimbura-11.png",
+  "categories": [
+    "Electronics",
+    "Apple",
+    "الإلكترونيات",
+    "ابل"
+  ],
+  "size": [],
+  "color": [
+    "White",
+    "Black"
+  ],
+  "price": 7200,
+  "inStock": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1681425396488"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681425396488"
+    }
+  },
+  "__v": 0,
+  "colorAr": [
+    "الأسود",
+    "الأبيض"
+  ]
+},{
+  "_id": {
+    "$oid": "643884ef73bb7caf103287fc"
+  },
+  "title": "Slim Fit Suit",
+  "description": "Fashion Terno Masculino Slim Fit Blazers Ball And Groom Suits For Men Boutique Fashion Wedding( Jacket + Vest + Pants ) Royal Blue",
+  "images": "https://www.freepnglogos.com/uploads/suit-png/men-suit-transparent-png-pictures-icons-and-png-19.png",
+  "categories": [
+    "Clothes",
+    "Suits",
+    "البدل",
+    "الملابس"
+  ],
+  "size": [
+    "XL",
+    "L",
+    "M"
+  ],
+  "color": [
+    "White",
+    "Black",
+    "Blue"
+  ],
+  "price": 3200,
+  "inStock": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1681425647871"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681425647871"
+    }
+  },
+  "__v": 0,
+  "sizeAr": [
+    "كبير جدا",
+    "كبير",
+    "متوسط"
+  ],
+  "colorAr": [
+    "الأبيض",
+    "الأسود",
+    "الأزرق"
+  ]
+},{
+  "_id": {
+    "$oid": "643885f973bb7caf103287fe"
+  },
+  "title": "Sports Cap",
+  "description": "Sports Cap Fashion Style High Quality",
+  "images": "https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+  "categories": [
+    "Clothes",
+    "Accessories",
+    "الملابس",
+    "الإكسسوارات"
+  ],
+  "size": [
+    "S",
+    "M",
+    "L"
+  ],
+  "color": [
+    "White",
+    "Black",
+    "Red"
+  ],
+  "price": 200,
+  "inStock": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1681425913024"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681425913024"
+    }
+  },
+  "__v": 0,
+  "sizeAr": [
+    "صغير",
+    "متوسط",
+    "كبير"
+  ],
+  "colorAr": [
+    "الأبيض",
+    "الأسود",
+    "الأحمر"
+  ]
+},{
+  "_id": {
+    "$oid": "643be5ab3e85ea3ea9420a91"
+  },
+  "title": "I pad Air",
+  "description": "Apple Newest product in the ipad market in 21th century",
+  "images": "https://www.freepnglogos.com/uploads/tablet-png/vector-graphic-tablet-ipad-homebutton-app-40.png",
+  "categories": [
+    "Electronics",
+    "Tablets",
+    "الإلكترونيات",
+    "تابلت"
+  ],
+  "size": [],
+  "color": [
+    "White",
+    "Black"
+  ],
+  "price": 13200,
+  "inStock": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1681647019821"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681647019821"
+    }
+  },
+  "__v": 0,
+  "colorAr": [
+    "الأسود",
+    "الأبيض"
+  ]
+},{
+  "_id": {
+    "$oid": "643be65c3e85ea3ea9420a95"
+  },
+  "title": "I phone 11",
+  "description": "Apple Newest product in the iphone market in 2020",
+  "images": "https://www.freepnglogos.com/uploads/iphone-png/the-iphone-ten-png-3.png",
+  "categories": [
+    "Electronics",
+    "SmartPhones",
+    "الإلكترونيات",
+    "موبايلات"
+  ],
+  "size": [],
+  "color": [
+    "White",
+    "Black",
+    "Red",
+    "Blue"
+  ],
+  "price": 15000,
+  "inStock": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1681647196544"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681647196544"
+    }
+  },
+  "__v": 0,
+  "colorAr": [
+    "الأزرق",
+    "الأحمر",
+    "الأسود",
+    "الأبيض"
+  ]
+},{
+  "_id": {
+    "$oid": "643bea453e85ea3ea9420a9c"
+  },
+  "title": "Jacket",
+  "description": "wemon jacket High quality ",
+  "images": "https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+  "categories": [
+    "Clothes",
+    "Jacket",
+    "الملابس",
+    "جاكيت"
+  ],
+  "size": [
+    "XL",
+    "L",
+    "M",
+    "S"
+  ],
+  "color": [
+    "White",
+    "Black",
+    "Red",
+    "Blue"
+  ],
+  "price": 999,
+  "inStock": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1681648197909"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1681648197909"
+    }
+  },
+  "__v": 0,
+  "sizeAr": [
+    "كبير جدا",
+    "كبير",
+    "متوسط",
+    "صغير"
+  ],
+  "colorAr": [
+    "الأزرق",
+    "الأحمر",
+    "الأسود",
+    "الأبيض"
+  ]
+},{
+  "_id": {
+    "$oid": "644bb3ecc9fd2fe6d6a31621"
+  },
+  "title": "Airpods Pro",
+  "description": "The new Apple‑designed H2 chip is the force behind AirPods Pro and its advanced audio performance.",
+  "images": "https://firebasestorage.googleapis.com/v0/b/gp-ecommerce-406c7.appspot.com/o/1682682854834airpods-apple-news.png?alt=media&token=67cf7c31-97f3-4994-888d-d851e7613c67",
+  "categories": [
+    "Electronics",
+    "Accessories"
+  ],
+  "size": [],
+  "sizeAr": [],
+  "color": [],
+  "colorAr": [],
+  "price": 9000,
+  "inStock": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682682860511"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682682860511"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644be5fd9838f3b1b2069f44"
+  },
+  "title": "Keyboard Logitech",
+  "description": "Logitech MK470 Slim Wireless Keyboard and Mouse Combo - Modern Compact Layout, Ultra Quiet, 2.4 GHz USB Receiver, Plug n' Play Connectivity",
+  "images": "https://firebasestorage.googleapis.com/v0/b/gp-ecommerce-406c7.appspot.com/o/1682698351278p2.png?alt=media&token=38f9a22c-48e0-476b-bc82-0650fbb01ac0",
+  "categories": [],
+  "size": [],
+  "sizeAr": [],
+  "color": [],
+  "colorAr": [],
+  "price": 1850,
+  "inStock": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682695677753"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682698359423"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "644c0c079f61b9fa121ab2f4"
+  },
+  "title": "Formal Suit For Men",
+  "description": "This season’s collection serves three-piece suits, tuxedo suits",
+  "images": "https://firebasestorage.googleapis.com/v0/b/gp-ecommerce-406c7.appspot.com/o/1682708668890p3.png?alt=media&token=d6065ea9-83e8-4fc9-adb7-ffe0b4e82b34",
+  "categories": [
+    "Suits",
+    "البدل"
+  ],
+  "size": [
+    "L",
+    "XL"
+  ],
+  "sizeAr": [
+    "كبير",
+    "كبير جدا"
+  ],
+  "color": [
+    "Black",
+    "White",
+    "Blue"
+  ],
+  "colorAr": [
+    "الأسود",
+    "الأبيض",
+    "الأزرق"
+  ],
+  "price": 3800,
+  "inStock": true,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1682705415381"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1682708676056"
+    }
+  },
+  "__v": 0
+}]
